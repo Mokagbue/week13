@@ -1,0 +1,11 @@
+//use hooks, login/set login 
+//if login is true then go to home page,
+//login will have a button to sign up form
+///sinup will have button to login form
+// need to build a User class: username and password
+//when a user signs up their username and pasword are placed in an obj, 
+//(not secure but this is just practice)
+//then redirected to login
+//look into adding these to local storage.
+//but either way, single page app should be able to retain
+//user information without refreshing the page and losing the informaiton
