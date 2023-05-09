@@ -5,8 +5,8 @@ function Nav() {
         <a className="navbar-brand" href="google.com">
           Home
         </a>
-        <a className="navbar-brand" href="google.com">
-          About
+        <a className="navbar-brand" href="../func/villagers">
+          Villagers
         </a>
         <a className="navbar-brand" href="google.com">
          Contact

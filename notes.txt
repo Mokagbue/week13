@@ -9,3 +9,13 @@
 //look into adding these to local storage.
 //but either way, single page app should be able to retain
 //user information without refreshing the page and losing the informaiton
+
+TODO
+SEtup a Landing Page Which is the Login PageHeader 
+ACNH 
+RATE A Random Villager
+LOgin form
+
+Set up a user and password: snooty 1234
+
+if user and pasword match take user to the rating app
